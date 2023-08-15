@@ -10,8 +10,6 @@ Skills: REACT / JS / HTML / CSS
 - ⚡ Fun fact: I enjoy singing and dancing in general a lot. I also like to travel.
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
